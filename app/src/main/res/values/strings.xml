@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArquitecturasAndroid</string>
+    <string name="text_offers_list">Lista de ofertas</string>
+    <string name="text_empty">-</string>
+    <string name="button_get_offer">Obtén esta oferta</string>
+    <string name="text_offer_details">Detalles de la oferta</string>
+    <string name="text_description">Descripción</string>
+    <string name="text_offer">Oferta</string>
+    <string name="text_website">Sitio web</string>
+    <string name="text_valid_until">Válido hasta</string>
+</resources>
