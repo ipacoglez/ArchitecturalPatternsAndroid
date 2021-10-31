@@ -1,4 +1,4 @@
-package com.pacoglez.arquitecturasandroid
+package com.pacoglez.arquitecturasandroid.view
 
 import android.content.Intent
 import android.net.Uri
@@ -7,11 +7,13 @@ import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
+import com.pacoglez.arquitecturasandroid.R
+import com.pacoglez.arquitecturasandroid.model.Coupon
 import com.squareup.picasso.Picasso
 import de.hdodenhof.circleimageview.CircleImageView
 
 class CouponDetailActivity : AppCompatActivity() {
-    private var couponSelected:Coupon? = null
+    private var couponSelected: Coupon? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

@@ -1,4 +1,4 @@
-package com.pacoglez.arquitecturasandroid
+package com.pacoglez.arquitecturasandroid.model
 
 import com.google.gson.JsonObject
 import java.io.Serializable
